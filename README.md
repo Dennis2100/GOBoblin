@@ -1,2 +1,2 @@
 # GOBoblin
-![Example Image](goboblin.png)
+![Example Image](goboblin.PNG)
